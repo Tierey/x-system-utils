@@ -1,0 +1,32 @@
+{
+  "name": "@x-system/utils",
+  "version": "0.0.1",
+  "description": "all needed gulp packages",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["@x-system"],
+  "author": {
+    "name": "tierey",
+    "email": "ixitixixi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tierey/x-system-utils.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/Tierey/x-system-utils",
+  "license": "MIT",
+  "deprecated": "in process",
+  "dependencies": {
+    "@x-system/deploy": "*",
+    "@x-system/font-convertor": "*",
+    "@x-system/image": "*",
+    "gulp-size":"*",
+    "postcss-flexbugs-fixes": "*",
+    "gulp-concat": "*",
+    "gulp-group-css-media-queries": "*",
+    "gulp-zip": "*"
+  }
+}
