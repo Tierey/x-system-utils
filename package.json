@@ -24,6 +24,8 @@
     "@x-system/font-convertor": "*",
     "@x-system/image": "*",
     "gulp-size":"*",
+    "prettier": "^2.3.2",
+    "postcss": "8.3.6",
     "postcss-flexbugs-fixes": "*",
     "gulp-concat": "*",
     "gulp-group-css-media-queries": "*",
