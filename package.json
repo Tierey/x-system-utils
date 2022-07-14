@@ -1,6 +1,6 @@
 {
   "name": "@x-system/utils",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "all needed gulp packages",
   "main": "index.js",
   "scripts": {},
@@ -32,6 +32,7 @@
     "gulp-zip": "*",
     "yargs":"*",
     "html-parser":"*",
-    "del":"*"
+    "del":"*",
+    "autoprefixer": "*"
   }
 }
