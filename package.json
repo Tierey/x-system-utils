@@ -1,7 +1,7 @@
 {
   "name": "@x-system/utils",
-  "version": "0.0.6",
-  "description": "all needed gulp packages",
+  "version": "0.0.7",
+  "description": "all needed packages",
   "main": "index.js",
   "scripts": {},
   "keywords": ["@x-system"],
@@ -23,16 +23,15 @@
     "@x-system/deploy": "*",
     "@x-system/font-convertor": "*",
     "@x-system/image": "*",
+    "@x-system/pretty": "*",
     "gulp-size":"*",
-    "prettier": "*",
-    "postcss": "*",
-    "postcss-flexbugs-fixes": "*",
     "gulp-concat": "*",
     "gulp-group-css-media-queries": "*",
     "gulp-zip": "*",
-    "yargs":"*",
+    "autoprefixer": "*",
+    "postcss-flexbugs-fixes": "*",
     "html-parser":"*",
-    "del":"*",
-    "autoprefixer": "*"
+    "yargs":"*",
+    "del":"*"
   }
 }
